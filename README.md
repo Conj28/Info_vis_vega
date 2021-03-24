@@ -1,1 +1,1 @@
-# Info_vis_vega
+data sets for Information Visualisation assignment, from https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md
